@@ -1,6 +1,5 @@
 ,City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 7,7,opuwo,0,,1558378523,23,-18.06,13.84,72.06,5.44
-26,26,colonelganj,0,IN,1558378759,14,27.13,81.7,94.2,5.08
 70,70,ponta do sol,0,BR,1558378767,57,-20.63,-46.0,73.68,5.32
 88,88,cidreira,0,BR,1558378770,66,-30.17,-50.22,76.56,5.5
 125,125,arraial do cabo,0,BR,1558378491,78,-22.97,-42.02,84.2,4.7
